@@ -29,4 +29,9 @@ This repo contains online web design course using reactjs
   Name | Number
   -----|--------
   Swathi|7698786564
+  
+   ~~~python
+   def python():
+     print("hai")
+   ~~~
    
